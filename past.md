@@ -1,49 +1,27 @@
 # eventlist
-<h3>学会・研究集会などの情報</h3>
-
-<h4>2023年</h4>
-
-1/24-27, <a href="https://www.iwsec.org/scis/2023/index.html" target="_blank"> SCIS 2023</a> ＠小倉<br>
-2/15-17, <a href="https://www.kurims.kyoto-u.ac.jp/kyoten/ja/workshop.html" target="_blank">研究集会「群・環・言語と計算機科学の周辺領域」</a> ＠京都大学<br>
-4/23-27, <a href="https://eurocrypt.iacr.org/2023/" target="_blank">EUROCRYPT 2023</a> @Lyon, France<br>
-5/22-26, <a href="https://www.ieee-security.org/TC/SP2023/index.html" target="_blank">IEEE S&amp;P 2023</a> @San Francisco, USA<br>
-6/6-8, <a href="https://itcrypto.github.io/2023/index.html" target="_blank">ITC 2023</a> @Aarhus University, Denmark<br>
-6/19-22, <a href="https://sulab-sever.u-aizu.ac.jp/ACNS2023/index.html" target="_blank">ACNS 2023</a> @Kyoto, Japan<br>
-8/19-24, <a href="https://crypto.iacr.org/2023/" target="_blank">CRYPTO 2023</a> @Santa Barbara, USA<br>
-8/20-25, <a href="https://iciam2023.org/" target="_blank">ICIAM 2023</a> @Tokyo, Japan<br>
-8/29-31, <a href="https://www.iwsec.org/2023/index.html" target="_blank">IWSEC 2023</a> @IISec, Yokohama, Japan<br>
-
-<h4>2022年</h4>
-
-1/18-21, <a href="https://www.iwsec.org/scis/2022/index.html" target="_blank">SCIS 2022</a> ＠大阪<br>
-5/30-6/3, <a href="https://asiaccs2022.conferenceservice.jp/" target="_blank">ACM ASIACCS 2022</a> @Nagasaki, Japan<br>
-5/30, <a href="https://sites.google.com/view/apkc2022" target="_blank">APKC 2022</a>（併設ワークショップ）<br>
-5/30-6/3, <a href="https://eurocrypt.iacr.org/2022/" target="_blank">Eurocrypt 2022</a> @Trondheim, Norway<br>
-6/21-24, <a href="https://www.kurims.kyoto-u.ac.jp/kyoten/ja/workshop.html" target="_blank">研究集会「数理論理学とその応用」</a> ＠京都大学<br>
-7/5-7, <a href="https://itcrypto.github.io/2022/" target="_blank">ITC 2022</a> @Boston, USA<br>
-8/13-18, <a href="https://crypto.iacr.org/2022/" target="_blank">Crypto 2022</a> @Santa Barbara, USA<br>
-8/31-9/2, <a href="https://www.iwsec.org/2022/index.html" target="_blank">IWSEC 2022</a> @Tokyo, Japan<br>
-9/5, <a href="https://www.ieice.org/~isec/wcis/wcis2022/">WCIS 2022</a> ＠オンライン<br>
-9/28-30, <a href="https://2022.pqcrypto.org/" target="_blank">PQCrypto 2022</a> @online<br>
-10/17-19, <a href="http://www.isita.ieice.org/2022/" target="_blank">ISITA 2022</a> @Ibaraki, Japan<br>
-10/24-27, <a href="https://www.iwsec.org/css/2022/index.html" target="_blank">CSS 2022</a> ＠熊本市<br>
-11/7-10, <a href="https://tcc.iacr.org/2022/" target="_blank">TCC 2022</a> @Chicago, USA<br>
-11/28-30, <a href="https://uow-ic2.github.io/acisp2022/" target="_blank">ACISP 2022</a> @Wollongong, Australia<br>
-12/5-8, <a href="https://www.kurims.kyoto-u.ac.jp/kyoten/ja/workshop.html" target="_blank">研究集会「有限群論，代数的組合せ論，頂点代数の研究」</a> ＠京都大学<br>
-12/19-21, <a href="https://www.kurims.kyoto-u.ac.jp/kyoten/ja/workshop.html" target="_blank">研究集会「Computer Algebra – Foundations and Applications」</a> ＠京都大学<br>
+<h3>学会・研究集会などの情報（古い分）</h3>
 
 <h4>2021年</h4>
 
-1/19-22, <a href="http://www.iwsec.org/scis/2021/index.html" target="blank">SCIS 2021</a> ＠オンライン</li>
-3/1-5, <a href="https://fc21.ifca.ai/index.php" target="blank">Financial Cryptography and Data Security 2021</a> @Online</li>
-5/9-13, <a href="https://pkc.iacr.org/2021/" target="blank">PKC 2021</a> @Online</li>
-6/7-11, <a href="https://asiaccs2021.comp.polyu.edu.hk/" target="blank">ACM ASIACCS 2021</a> @<del>Hong Kong, China</del> Online</li>
-7/23-26, <a href="https://itcrypto.github.io/2021/" target="blank">ITC 2021</a> @<del>Bertinoro, Italy</del> Online</li>
-9/3, <a href="https://www.ieice.org/~isec/wcis/wcis2021/Workshop%20on%20Cryptography%20and%20Information%20Security%202021.htm" target="blank">WCIS 2021</a> ＠オンライン</li>
-9/8-10, <a href="https://www.iwsec.org/2021/index.html" target="blank">IWSEC 2021</a> @Online</li>
-10/17-21, <a href="http://itw2021.org/" target="blank">ITW 2021</a> @金沢（<del>ハイブリッド</del>オンライン開催）</li>
-10/26-29, <a href="https://www.iwsec.org/css/2021/index.html" target="blank">CSS 2021</a> @オンライン</li>
-11/8-10, <a href="https://www.imi.kyushu-u.ac.jp/kyodo-riyo/research_meetings/view/30" target="blank">研究集会「秘密計算・秘密分散の数理と実用の探求」</a> ＠オンライン</li>
+1/19-22, <a href="http://www.iwsec.org/scis/2021/index.html" target="blank">SCIS 2021</a> ＠オンライン
+
+3/1-5, <a href="https://fc21.ifca.ai/index.php" target="blank">Financial Cryptography and Data Security 2021</a> @Online
+
+5/9-13, <a href="https://pkc.iacr.org/2021/" target="blank">PKC 2021</a> @Online
+
+6/7-11, <a href="https://asiaccs2021.comp.polyu.edu.hk/" target="blank">ACM ASIACCS 2021</a> @<del>Hong Kong, China</del> Online
+
+7/23-26, <a href="https://itcrypto.github.io/2021/" target="blank">ITC 2021</a> @<del>Bertinoro, Italy</del> Online
+
+9/3, <a href="https://www.ieice.org/~isec/wcis/wcis2021/Workshop%20on%20Cryptography%20and%20Information%20Security%202021.htm" target="blank">WCIS 2021</a> ＠オンライン
+
+9/8-10, <a href="https://www.iwsec.org/2021/index.html" target="blank">IWSEC 2021</a> @Online
+
+10/17-21, <a href="http://itw2021.org/" target="blank">ITW 2021</a> @金沢（<del>ハイブリッド</del>オンライン開催）
+
+10/26-29, <a href="https://www.iwsec.org/css/2021/index.html" target="blank">CSS 2021</a> @オンライン
+
+11/8-10, <a href="https://www.imi.kyushu-u.ac.jp/kyodo-riyo/research_meetings/view/30" target="blank">研究集会「秘密計算・秘密分散の数理と実用の探求」</a> ＠オンライン
 
 <h4>2020年</h4>
 
