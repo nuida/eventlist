@@ -32,127 +32,41 @@
 12/5-8, <a href="https://www.kurims.kyoto-u.ac.jp/kyoten/ja/workshop.html" target="_blank">研究集会「有限群論，代数的組合せ論，頂点代数の研究」</a> ＠京都大学<br>
 12/19-21, <a href="https://www.kurims.kyoto-u.ac.jp/kyoten/ja/workshop.html" target="_blank">研究集会「Computer Algebra – Foundations and Applications」</a> ＠京都大学<br>
 
-<dt>2021年</dt>
-<dd>
+<h4>2021年</h4>
 
-<dl>
-<dt>1月</dt>
-<dd><ul>
-<li>1/19-22, <a href="http://www.iwsec.org/scis/2021/index.html" target="blank">SCIS 2021</a> ＠オンライン</li>
-</ul></dd>
-<dt>2月</dt>
-<dd><ul>
-</ul></dd>
-<dt>3月</dt>
-<dd><ul>
-<li>3/1-5, <a href="https://fc21.ifca.ai/index.php" target="blank">Financial Cryptography and Data Security 2021</a> @Online</li>
-</ul></dd>
-<dt>4月</dt>
-<dd><ul>
-</ul></dd>
-<dt>5月</dt>
-<dd><ul>
-<li>5/9-13, <a href="https://pkc.iacr.org/2021/" target="blank">PKC 2021</a> @Online</li>
-</ul></dd>
-<dt>6月</dt>
-<dd><ul>
-<li>6/7-11, <a href="https://asiaccs2021.comp.polyu.edu.hk/" target="blank">ACM ASIACCS 2021</a> @<del>Hong Kong, China</del> Online</li>
-</ul></dd>
-<dt>7月</dt>
-<dd><ul>
-<li>7/23-26, <a href="https://itcrypto.github.io/2021/" target="blank">ITC 2021</a> @<del>Bertinoro, Italy</del> Online</li>
-</ul></dd>
-<dt>8月</dt>
-<dd><ul>
-</ul></dd>
-<dt>9月</dt>
-<dd><ul>
-<li>9/3, <a href="https://www.ieice.org/~isec/wcis/wcis2021/Workshop%20on%20Cryptography%20and%20Information%20Security%202021.htm" target="blank">WCIS 2021</a> ＠オンライン</li>
-<li>9/8-10, <a href="https://www.iwsec.org/2021/index.html" target="blank">IWSEC 2021</a> @Online</li>
-</ul></dd>
-<dt>10月</dt>
-<dd><ul>
-<li>10/17-21, <a href="http://itw2021.org/" target="blank">ITW 2021</a> @金沢（<del>ハイブリッド</del>オンライン開催）</li>
-<li>10/26-29, <a href="https://www.iwsec.org/css/2021/index.html" target="blank">CSS 2021</a> @オンライン</li>
-</ul></dd>
-<dt>11月</dt>
-<dd><ul>
-<li>11/8-10, <a href="https://www.imi.kyushu-u.ac.jp/kyodo-riyo/research_meetings/view/30" target="blank">研究集会「秘密計算・秘密分散の数理と実用の探求」</a> ＠オンライン</li>
-</ul></dd>
-<dt>12月</dt>
-<dd><ul>
-</ul></dd>
-</dl>
+1/19-22, <a href="http://www.iwsec.org/scis/2021/index.html" target="blank">SCIS 2021</a> ＠オンライン</li>
+3/1-5, <a href="https://fc21.ifca.ai/index.php" target="blank">Financial Cryptography and Data Security 2021</a> @Online</li>
+5/9-13, <a href="https://pkc.iacr.org/2021/" target="blank">PKC 2021</a> @Online</li>
+6/7-11, <a href="https://asiaccs2021.comp.polyu.edu.hk/" target="blank">ACM ASIACCS 2021</a> @<del>Hong Kong, China</del> Online</li>
+7/23-26, <a href="https://itcrypto.github.io/2021/" target="blank">ITC 2021</a> @<del>Bertinoro, Italy</del> Online</li>
+9/3, <a href="https://www.ieice.org/~isec/wcis/wcis2021/Workshop%20on%20Cryptography%20and%20Information%20Security%202021.htm" target="blank">WCIS 2021</a> ＠オンライン</li>
+9/8-10, <a href="https://www.iwsec.org/2021/index.html" target="blank">IWSEC 2021</a> @Online</li>
+10/17-21, <a href="http://itw2021.org/" target="blank">ITW 2021</a> @金沢（<del>ハイブリッド</del>オンライン開催）</li>
+10/26-29, <a href="https://www.iwsec.org/css/2021/index.html" target="blank">CSS 2021</a> @オンライン</li>
+11/8-10, <a href="https://www.imi.kyushu-u.ac.jp/kyodo-riyo/research_meetings/view/30" target="blank">研究集会「秘密計算・秘密分散の数理と実用の探求」</a> ＠オンライン</li>
 
-</dd>
+<h4>2020年</h4>
 
-<dt>2020年</dt>
-<dd>
+1/27, <a href="https://researchmap.jp/sug/SCAIS2020/">SCAIS 2020</a> ＠高知</li>
+1/28-31, <a href="http://www.iwsec.org/scis/2020/index.html">SCIS 2020</a> ＠高知</li>
+3/2, <a href="https://www.cpsec.aist.go.jp/events/ws-cpsec-pkc2020/">第13回公開鍵暗号の安全な構成とその応用ワークショップ</a> ＠産総研（お台場）</li>
+3/16-19, <a href="http://mathsoc.jp/meeting/nichidai20mar/">日本数学会年会</a> ＠日本大学</li>
+5/10-14, <a href="https://eurocrypt.iacr.org/2020/">Eurocrypt 2020</a> @Zagreb, Croatia</li>
+6/1-5, <a href="https://asiaccs2020.cs.nthu.edu.tw/">ACM ASIACCS 2020</a> @Taipei, Taiwan</li>
+9/2-4, <a href="http://www.iwsec.org/2020/">IWSEC 2020</a> ＠福井</li>
+9/11, <a href="https://www.ieice.org/~isec/wcis/wcis2020/">暗号と情報セキュリティワークショップ（WCIS）</a> （オンライン）</li>
+9/19-21, <a href="https://sites.google.com/view/jstmath-openproblem2020">JST数学領域 未解決問題ワークショップ</a> （オンライン）</li>
+9/22-25, <a href="https://www.mathsoc.jp/activity/meeting/kumamoto20sept/">日本数学会 2020年度秋季総合分科会</a> ＠熊本大</li>
+10/5-8, <a href="http://www.kurims.kyoto-u.ac.jp/~tshun/combrep2020/">研究集会「組合せ論的表現論の最近の進展」</a> ＠京都大</li>
+10/13-15, <a href="https://sites.google.com/view/rims-supersingular2020/">研究集会「超特異曲線・超特異アーベル多様体の理論と応用」</a> （オンライン）</li>
+10/19-22, <a href="https://sites.google.com/di.uniroma1.it/ACNS2020">ACNS 2020</a> @Rome, Italy</li>
+10/24-27, <a href="http://www.isita.ieice.org/2020/home.html">ISITA 2020</a> @Kapolei, Hawai’i, USA</li>
+10/26-29, <a href="http://www.iwsec.org/css/2020">CSS 2020</a> ＠神戸</li>
+10/31, <a href="https://mathsoc.jp/administration/career/kouryukai2020.html">日本数学会　異分野・異業種研究交流会</a> （オンライン）</li>
+12/22, <a href="http://crypto.mist.i.u-tokyo.ac.jp/events/crismath2020.html">暗号及び情報セキュリティと数学の相関ワークショップ（CRISMATH 2020）</a> ＠オンライン</li>
 
-<dl>
-<dt>1月</dt>
-<dd><ul>
-<li>1/27, <a href="https://researchmap.jp/sug/SCAIS2020/">SCAIS 2020</a> ＠高知</li>
-<li>1/28-31, <a href="http://www.iwsec.org/scis/2020/index.html">SCIS 2020</a> ＠高知</li>
-</ul></dd>
-<dt>2月</dt>
-<dd><ul>
-</ul></dd>
-<dt>3月</dt>
-<dd><ul>
-<li>3/2, <a href="https://www.cpsec.aist.go.jp/events/ws-cpsec-pkc2020/">第13回公開鍵暗号の安全な構成とその応用ワークショップ</a> ＠産総研（お台場）</li>
-<li>3/16-19, <a href="http://mathsoc.jp/meeting/nichidai20mar/">日本数学会年会</a> ＠日本大学</li>
-</ul></dd>
-<dt>4月</dt>
-<dd><ul>
-</ul></dd>
-<dt>5月</dt>
-<dd><ul>
-<li>5/10-14, <a href="https://eurocrypt.iacr.org/2020/">Eurocrypt 2020</a> @Zagreb, Croatia</li>
-</ul></dd>
-<dt>6月</dt>
-<dd><ul>
-<li>6/1-5, <a href="https://asiaccs2020.cs.nthu.edu.tw/">ACM ASIACCS 2020</a> @Taipei, Taiwan</li>
-</ul></dd>
-<dt>7月</dt>
-<dd><ul>
-</ul></dd>
-<dt>8月</dt>
-<dd><ul>
-</ul></dd>
-<dt>9月</dt>
-<dd><ul>
-<li>9/2-4, <a href="http://www.iwsec.org/2020/">IWSEC 2020</a> ＠福井</li>
-<li>9/11, <a href="https://www.ieice.org/~isec/wcis/wcis2020/">暗号と情報セキュリティワークショップ（WCIS）</a> （オンライン）</li>
-<li>9/19-21, <a href="https://sites.google.com/view/jstmath-openproblem2020">JST数学領域 未解決問題ワークショップ</a> （オンライン）</li>
-<li>9/22-25, <a href="https://www.mathsoc.jp/activity/meeting/kumamoto20sept/">日本数学会 2020年度秋季総合分科会</a> ＠熊本大</li>
-</ul></dd>
-<dt>10月</dt>
-<dd><ul>
-<li>10/5-8, <a href="http://www.kurims.kyoto-u.ac.jp/~tshun/combrep2020/">研究集会「組合せ論的表現論の最近の進展」</a> ＠京都大</li>
-<li>10/13-15, <a href="https://sites.google.com/view/rims-supersingular2020/">研究集会「超特異曲線・超特異アーベル多様体の理論と応用」</a> （オンライン）</li>
-<li>10/19-22, <a href="https://sites.google.com/di.uniroma1.it/ACNS2020">ACNS 2020</a> @Rome, Italy</li>
-<li>10/24-27, <a href="http://www.isita.ieice.org/2020/home.html">ISITA 2020</a> @Kapolei, Hawai’i, USA</li>
-<li>10/26-29, <a href="http://www.iwsec.org/css/2020">CSS 2020</a> ＠神戸</li>
-<li>10/31, <a href="https://mathsoc.jp/administration/career/kouryukai2020.html">日本数学会　異分野・異業種研究交流会</a> （オンライン）</li>
-</ul></dd>
-<dt>11月</dt>
-<dd><ul>
-</ul></dd>
-<dt>12月</dt>
-<dd><ul>
-<li>12/22, <a href="http://crypto.mist.i.u-tokyo.ac.jp/events/crismath2020.html">暗号及び情報セキュリティと数学の相関ワークショップ（CRISMATH 2020）</a> ＠オンライン</li>
-</ul></dd>
-</dl>
+<h4>2019年</h4>
 
-</dd>
-
-<dt>2019年</dt>
-<dd>
-
-<dl>
-<dt>1月</dt>
-<dd><ul>
 <li>1/21, <a href="https://researchmap.jp/sug/SCAIS2019/">SCAIS 2019</a> ＠大津</li>
 <li>1/22-25, <a href="http://www.iwsec.org/scis/2019/index.html">SCIS 2019</a> ＠大津</li>
 </ul></dd>
