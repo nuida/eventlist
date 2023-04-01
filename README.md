@@ -1,121 +1,36 @@
 # eventlist
-学会・研究集会などの情報
+<h3>学会・研究集会などの情報</h3>
 
-<dt>2023年</dt>
-<dd>
+<h4>2023年</h4>
 
-<dl>
-<dt>1月</dt>
-<dd><ul>
-<li>1/24-27, <a href="https://www.iwsec.org/scis/2023/index.html" target="_blank"> SCIS 2023</a> ＠小倉</li>
-</ul></dd>
-<dt>2月</dt>
-<dd><ul>
-<li>2/15-17, <a href="https://www.kurims.kyoto-u.ac.jp/kyoten/ja/workshop.html" target="_blank">研究集会「群・環・言語と計算機科学の周辺領域」</a> ＠京都大学</li>
-</ul></dd>
-<dt>3月</dt>
-<dd><ul>
-</ul></dd>
-<dt>4月</dt>
-<dd><ul>
-<li>4/23-27, <a href="https://eurocrypt.iacr.org/2023/" target="_blank">EUROCRYPT 2023</a> @Lyon, France</li>
-</ul></dd>
-<dt>5月</dt>
-<dd><ul>
-<li>5/22-26, <a href="https://www.ieee-security.org/TC/SP2023/index.html" target="_blank">IEEE S&amp;P 2023</a> @San Francisco, USA</li>
-</ul></dd>
-<dt>6月</dt>
-<dd><ul>
-<li>6/6-8, <a href="https://itcrypto.github.io/2023/index.html" target="_blank">ITC 2023</a> @Aarhus University, Denmark</li>
-<li>6/19-22, <a href="https://sulab-sever.u-aizu.ac.jp/ACNS2023/index.html" target="_blank">ACNS 2023</a> @Kyoto, Japan</li>
-</ul></dd>
-<dt>7月</dt>
-<dd><ul>
-</ul></dd>
-<dt>8月</dt>
-<dd><ul>
-<li>8/19-24, <a href="https://crypto.iacr.org/2023/" target="_blank">CRYPTO 2023</a> @Santa Barbara, USA</li>
-<li>8/20-25, <a href="https://iciam2023.org/" target="_blank">ICIAM 2023</a> @Tokyo, Japan</li>
-<li>8/29-31, <a href="https://www.iwsec.org/2023/index.html" target="_blank">IWSEC 2023</a> @IISec, Yokohama, Japan</li>
-</ul></dd>
-<dt>9月</dt>
-<dd><ul>
-</ul></dd>
-<dt>10月</dt>
-<dd><ul>
-</ul></dd>
-<dt>11月</dt>
-<dd><ul>
-</ul></dd>
-<dt>12月</dt>
-<dd><ul>
-</ul></dd>
-</dl>
+1/24-27, <a href="https://www.iwsec.org/scis/2023/index.html" target="_blank"> SCIS 2023</a> ＠小倉<br>
+2/15-17, <a href="https://www.kurims.kyoto-u.ac.jp/kyoten/ja/workshop.html" target="_blank">研究集会「群・環・言語と計算機科学の周辺領域」</a> ＠京都大学<br>
+4/23-27, <a href="https://eurocrypt.iacr.org/2023/" target="_blank">EUROCRYPT 2023</a> @Lyon, France<br>
+5/22-26, <a href="https://www.ieee-security.org/TC/SP2023/index.html" target="_blank">IEEE S&amp;P 2023</a> @San Francisco, USA<br>
+6/6-8, <a href="https://itcrypto.github.io/2023/index.html" target="_blank">ITC 2023</a> @Aarhus University, Denmark<br>
+6/19-22, <a href="https://sulab-sever.u-aizu.ac.jp/ACNS2023/index.html" target="_blank">ACNS 2023</a> @Kyoto, Japan<br>
+8/19-24, <a href="https://crypto.iacr.org/2023/" target="_blank">CRYPTO 2023</a> @Santa Barbara, USA<br>
+8/20-25, <a href="https://iciam2023.org/" target="_blank">ICIAM 2023</a> @Tokyo, Japan<br>
+8/29-31, <a href="https://www.iwsec.org/2023/index.html" target="_blank">IWSEC 2023</a> @IISec, Yokohama, Japan<br>
 
-</dd>
+<h4>2022年</h4>
 
-<dt>2022年</dt>
-<dd>
-
-<dl>
-<dt>1月</dt>
-<dd><ul>
-<li>1/18-21, <a href="https://www.iwsec.org/scis/2022/index.html" target="_blank">SCIS 2022</a> ＠大阪</li>
-</ul></dd>
-<dt>2月</dt>
-<dd><ul>
-</ul></dd>
-<dt>3月</dt>
-<dd><ul>
-</ul></dd>
-<dt>4月</dt>
-<dd><ul>
-</ul></dd>
-<dt>5月</dt>
-<dd><ul>
-<li>5/30-6/3, <a href="https://asiaccs2022.conferenceservice.jp/" target="_blank">ACM ASIACCS 2022</a> @Nagasaki, Japan
- <ul>
- <li>5/30, <a href="https://sites.google.com/view/apkc2022" target="_blank">APKC 2022</a>（併設ワークショップ）</li>
- </ul>
-</li>
-<li>5/30-6/3, <a href="https://eurocrypt.iacr.org/2022/" target="_blank">Eurocrypt 2022</a> @Trondheim, Norway</li>
-</ul></dd>
-<dt>6月</dt>
-<dd><ul>
-<li>6/21-24, <a href="https://www.kurims.kyoto-u.ac.jp/kyoten/ja/workshop.html" target="_blank">研究集会「数理論理学とその応用」</a> ＠京都大学</li>
-</ul></dd>
-<dt>7月</dt>
-<dd><ul>
-<li>7/5-7, <a href="https://itcrypto.github.io/2022/" target="_blank">ITC 2022</a> @Boston, USA</li>
-</ul></dd>
-<dt>8月</dt>
-<dd><ul>
-<li>8/13-18, <a href="https://crypto.iacr.org/2022/" target="_blank">Crypto 2022</a> @Santa Barbara, USA</li>
-<li>8/31-9/2, <a href="https://www.iwsec.org/2022/index.html" target="_blank">IWSEC 2022</a> @Tokyo, Japan</li>
-</ul></dd>
-<dt>9月</dt>
-<dd><ul>
-<li>9/5, <a href="https://www.ieice.org/~isec/wcis/wcis2022/">WCIS 2022</a> ＠オンライン</li>
-<li>9/28-30, <a href="https://2022.pqcrypto.org/" target="_blank">PQCrypto 2022</a> @online</li>
-</ul></dd>
-<dt>10月</dt>
-<dd><ul>
-<li>10/17-19, <a href="http://www.isita.ieice.org/2022/" target="_blank">ISITA 2022</a> @Ibaraki, Japan</li>
-<li>10/24-27, <a href="https://www.iwsec.org/css/2022/index.html" target="_blank">CSS 2022</a> ＠熊本市</li>
-</ul></dd>
-<dt>11月</dt>
-<dd><ul>
-<li>11/7-10, <a href="https://tcc.iacr.org/2022/" target="_blank">TCC 2022</a> @Chicago, USA</li>
-<li>11/28-30, <a href="https://uow-ic2.github.io/acisp2022/" target="_blank">ACISP 2022</a> @Wollongong, Australia</li>
-</ul></dd>
-<dt>12月</dt>
-<dd><ul>
-<li>12/5-8, <a href="https://www.kurims.kyoto-u.ac.jp/kyoten/ja/workshop.html" target="_blank">研究集会「有限群論，代数的組合せ論，頂点代数の研究」</a> ＠京都大学</li>
-<li>12/19-21, <a href="https://www.kurims.kyoto-u.ac.jp/kyoten/ja/workshop.html" target="_blank">研究集会「Computer Algebra – Foundations and Applications」</a> ＠京都大学</li>
-</ul></dd>
-</dl>
-
-</dd>
+1/18-21, <a href="https://www.iwsec.org/scis/2022/index.html" target="_blank">SCIS 2022</a> ＠大阪<br>
+5/30-6/3, <a href="https://asiaccs2022.conferenceservice.jp/" target="_blank">ACM ASIACCS 2022</a> @Nagasaki, Japan<br>
+5/30, <a href="https://sites.google.com/view/apkc2022" target="_blank">APKC 2022</a>（併設ワークショップ）<br>
+5/30-6/3, <a href="https://eurocrypt.iacr.org/2022/" target="_blank">Eurocrypt 2022</a> @Trondheim, Norway<br>
+6/21-24, <a href="https://www.kurims.kyoto-u.ac.jp/kyoten/ja/workshop.html" target="_blank">研究集会「数理論理学とその応用」</a> ＠京都大学<br>
+7/5-7, <a href="https://itcrypto.github.io/2022/" target="_blank">ITC 2022</a> @Boston, USA<br>
+8/13-18, <a href="https://crypto.iacr.org/2022/" target="_blank">Crypto 2022</a> @Santa Barbara, USA<br>
+8/31-9/2, <a href="https://www.iwsec.org/2022/index.html" target="_blank">IWSEC 2022</a> @Tokyo, Japan<br>
+9/5, <a href="https://www.ieice.org/~isec/wcis/wcis2022/">WCIS 2022</a> ＠オンライン<br>
+9/28-30, <a href="https://2022.pqcrypto.org/" target="_blank">PQCrypto 2022</a> @online<br>
+10/17-19, <a href="http://www.isita.ieice.org/2022/" target="_blank">ISITA 2022</a> @Ibaraki, Japan<br>
+10/24-27, <a href="https://www.iwsec.org/css/2022/index.html" target="_blank">CSS 2022</a> ＠熊本市<br>
+11/7-10, <a href="https://tcc.iacr.org/2022/" target="_blank">TCC 2022</a> @Chicago, USA<br>
+11/28-30, <a href="https://uow-ic2.github.io/acisp2022/" target="_blank">ACISP 2022</a> @Wollongong, Australia<br>
+12/5-8, <a href="https://www.kurims.kyoto-u.ac.jp/kyoten/ja/workshop.html" target="_blank">研究集会「有限群論，代数的組合せ論，頂点代数の研究」</a> ＠京都大学<br>
+12/19-21, <a href="https://www.kurims.kyoto-u.ac.jp/kyoten/ja/workshop.html" target="_blank">研究集会「Computer Algebra – Foundations and Applications」</a> ＠京都大学<br>
 
 <dt>2021年</dt>
 <dd>
@@ -502,8 +417,3 @@
 <li>12/26, <a href="http://www.itri.aist.go.jp/events/ws-itri-crismath2016/">第８回暗号及び情報セキュリティと数学の相関ワークショップ（CRISMATH 2016）</a> ＠お台場</li>
 </ul></dd>
 </dl>
-
-</dd>
-
-</dl>
-
