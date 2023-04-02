@@ -5,111 +5,63 @@
 
 <h4>2021年</h4>
 
-1/19-22, <a href="http://www.iwsec.org/scis/2021/index.html" target="blank">SCIS 2021</a> ＠オンライン
-
-3/1-5, <a href="https://fc21.ifca.ai/index.php" target="blank">Financial Cryptography and Data Security 2021</a> @Online
-
-5/9-13, <a href="https://pkc.iacr.org/2021/" target="blank">PKC 2021</a> @Online
-
-6/7-11, <a href="https://asiaccs2021.comp.polyu.edu.hk/" target="blank">ACM ASIACCS 2021</a> @<del>Hong Kong, China</del> Online
-
-7/23-26, <a href="https://itcrypto.github.io/2021/" target="blank">ITC 2021</a> @<del>Bertinoro, Italy</del> Online
-
-9/3, <a href="https://www.ieice.org/~isec/wcis/wcis2021/Workshop%20on%20Cryptography%20and%20Information%20Security%202021.htm" target="blank">WCIS 2021</a> ＠オンライン
-
-9/8-10, <a href="https://www.iwsec.org/2021/index.html" target="blank">IWSEC 2021</a> @Online
-
-10/17-21, <a href="http://itw2021.org/" target="blank">ITW 2021</a> @金沢（<del>ハイブリッド</del>オンライン開催）
-
-10/26-29, <a href="https://www.iwsec.org/css/2021/index.html" target="blank">CSS 2021</a> @オンライン
-
-11/8-10, <a href="https://www.imi.kyushu-u.ac.jp/kyodo-riyo/research_meetings/view/30" target="blank">研究集会「秘密計算・秘密分散の数理と実用の探求」</a> ＠オンライン
+- 1/19-22, <a href="http://www.iwsec.org/scis/2021/index.html" target="blank">SCIS 2021</a> ＠オンライン
+- 3/1-5, <a href="https://fc21.ifca.ai/index.php" target="blank">Financial Cryptography and Data Security 2021</a> @Online
+- 5/9-13, <a href="https://pkc.iacr.org/2021/" target="blank">PKC 2021</a> @Online
+- 6/7-11, <a href="https://asiaccs2021.comp.polyu.edu.hk/" target="blank">ACM ASIACCS 2021</a> @<del>Hong Kong, China</del> Online
+- 7/23-26, <a href="https://itcrypto.github.io/2021/" target="blank">ITC 2021</a> @<del>Bertinoro, Italy</del> Online
+- 9/3, <a href="https://www.ieice.org/~isec/wcis/wcis2021/Workshop%20on%20Cryptography%20and%20Information%20Security%202021.htm" target="blank">WCIS 2021</a> ＠オンライン
+- 9/8-10, <a href="https://www.iwsec.org/2021/index.html" target="blank">IWSEC 2021</a> @Online
+- 10/17-21, <a href="http://itw2021.org/" target="blank">ITW 2021</a> @金沢（<del>ハイブリッド</del>オンライン開催）
+- 10/26-29, <a href="https://www.iwsec.org/css/2021/index.html" target="blank">CSS 2021</a> @オンライン
+- 11/8-10, <a href="https://www.imi.kyushu-u.ac.jp/kyodo-riyo/research_meetings/view/30" target="blank">研究集会「秘密計算・秘密分散の数理と実用の探求」</a> ＠オンライン
 
 <h4>2020年</h4>
 
-1/27, <a href="https://researchmap.jp/sug/SCAIS2020/">SCAIS 2020</a> ＠高知
-
-1/28-31, <a href="http://www.iwsec.org/scis/2020/index.html">SCIS 2020</a> ＠高知
-
-3/2, <a href="https://www.cpsec.aist.go.jp/events/ws-cpsec-pkc2020/">第13回公開鍵暗号の安全な構成とその応用ワークショップ</a> ＠産総研（お台場）
-
-3/16-19, <a href="http://mathsoc.jp/meeting/nichidai20mar/">日本数学会年会</a> ＠日本大学
-
-5/10-14, <a href="https://eurocrypt.iacr.org/2020/">Eurocrypt 2020</a> @Zagreb, Croatia
-
-6/1-5, <a href="https://asiaccs2020.cs.nthu.edu.tw/">ACM ASIACCS 2020</a> @Taipei, Taiwan
-
-9/2-4, <a href="http://www.iwsec.org/2020/">IWSEC 2020</a> ＠福井
-
-9/11, <a href="https://www.ieice.org/~isec/wcis/wcis2020/">暗号と情報セキュリティワークショップ（WCIS）</a> （オンライン）
-
-9/19-21, <a href="https://sites.google.com/view/jstmath-openproblem2020">JST数学領域 未解決問題ワークショップ</a> （オンライン）
-
-9/22-25, <a href="https://www.mathsoc.jp/activity/meeting/kumamoto20sept/">日本数学会 2020年度秋季総合分科会</a> ＠熊本大
-
-10/5-8, <a href="http://www.kurims.kyoto-u.ac.jp/~tshun/combrep2020/">研究集会「組合せ論的表現論の最近の進展」</a> ＠京都大
-
-10/13-15, <a href="https://sites.google.com/view/rims-supersingular2020/">研究集会「超特異曲線・超特異アーベル多様体の理論と応用」</a> （オンライン）
-
-10/19-22, <a href="https://sites.google.com/di.uniroma1.it/ACNS2020">ACNS 2020</a> @Rome, Italy
-
-10/24-27, <a href="http://www.isita.ieice.org/2020/home.html">ISITA 2020</a> @Kapolei, Hawai’i, USA
-
-10/26-29, <a href="http://www.iwsec.org/css/2020">CSS 2020</a> ＠神戸
-
-10/31, <a href="https://mathsoc.jp/administration/career/kouryukai2020.html">日本数学会　異分野・異業種研究交流会</a> （オンライン）
-
-12/22, <a href="http://crypto.mist.i.u-tokyo.ac.jp/events/crismath2020.html">暗号及び情報セキュリティと数学の相関ワークショップ（CRISMATH 2020）</a> ＠オンライン
+- 1/27, <a href="https://researchmap.jp/sug/SCAIS2020/">SCAIS 2020</a> ＠高知
+- 1/28-31, <a href="http://www.iwsec.org/scis/2020/index.html">SCIS 2020</a> ＠高知
+- 3/2, <a href="https://www.cpsec.aist.go.jp/events/ws-cpsec-pkc2020/">第13回公開鍵暗号の安全な構成とその応用ワークショップ</a> ＠産総研（お台場）
+- 3/16-19, <a href="http://mathsoc.jp/meeting/nichidai20mar/">日本数学会年会</a> ＠日本大学
+- 5/10-14, <a href="https://eurocrypt.iacr.org/2020/">Eurocrypt 2020</a> @Zagreb, Croatia
+- 6/1-5, <a href="https://asiaccs2020.cs.nthu.edu.tw/">ACM ASIACCS 2020</a> @Taipei, Taiwan
+- 9/2-4, <a href="http://www.iwsec.org/2020/">IWSEC 2020</a> ＠福井
+- 9/11, <a href="https://www.ieice.org/~isec/wcis/wcis2020/">暗号と情報セキュリティワークショップ（WCIS）</a> （オンライン）
+- 9/19-21, <a href="https://sites.google.com/view/jstmath-openproblem2020">JST数学領域 未解決問題ワークショップ</a> （オンライン）
+- 9/22-25, <a href="https://www.mathsoc.jp/activity/meeting/kumamoto20sept/">日本数学会 2020年度秋季総合分科会</a> ＠熊本大
+- 10/5-8, <a href="http://www.kurims.kyoto-u.ac.jp/~tshun/combrep2020/">研究集会「組合せ論的表現論の最近の進展」</a> ＠京都大
+- 10/13-15, <a href="https://sites.google.com/view/rims-supersingular2020/">研究集会「超特異曲線・超特異アーベル多様体の理論と応用」</a> （オンライン）
+- 10/19-22, <a href="https://sites.google.com/di.uniroma1.it/ACNS2020">ACNS 2020</a> @Rome, Italy
+- 10/24-27, <a href="http://www.isita.ieice.org/2020/home.html">ISITA 2020</a> @Kapolei, Hawai’i, USA
+- 10/26-29, <a href="http://www.iwsec.org/css/2020">CSS 2020</a> ＠神戸
+- 10/31, <a href="https://mathsoc.jp/administration/career/kouryukai2020.html">日本数学会　異分野・異業種研究交流会</a> （オンライン）
+- 12/22, <a href="http://crypto.mist.i.u-tokyo.ac.jp/events/crismath2020.html">暗号及び情報セキュリティと数学の相関ワークショップ（CRISMATH 2020）</a> ＠オンライン
 
 <h4>2019年</h4>
 
-1/21, <a href="https://researchmap.jp/sug/SCAIS2019/">SCAIS 2019</a> ＠大津
-
-1/22-25, <a href="http://www.iwsec.org/scis/2019/index.html">SCIS 2019</a> ＠大津
-
-2/4-6, 研究集会「アルゴリズムと計算理論の新潮流」 ＠RIMS
-
-2/20-22, 研究集会「代数系、論理、言語と計算機科学の周辺」 ＠RIMS
-
-3/1, <a href="https://www.cpsec.aist.go.jp/events/ws-cpsec-pkc2019/">第12回公開鍵暗号の安全な構成とその応用ワークショップ</a> ＠産業技術総合研究所（お台場）
-
-3/17-20, <a href="http://mathsoc.jp/meeting/titech19mar/">日本数学会2019年度年会</a> ＠東京工業大学
-
-3/18, <a href="https://researchmap.jp/izu_tetsuya/新しい計算原理に基づく暗号解析の現在/">ワークショップ「新しい計算原理に基づく暗号解析の現在」</a> ＠IIJ（飯田橋）
-
-3/29-30, <a href="https://sites.google.com/view/kantotsudoi/ホーム">第3回関東すうがく徒のつどい</a> ＠東京
-
-5/15, ACM CCS 2019 Submission Deadline (11:59 PM AoE (UTC-12))
-
-5/17, <a href="https://www.ieice.org/ken/program/index.php?tgs_regid=578fae137ffa91e52750480e181b9eee0f477f635bb8da36ea6bec79abd42bb9&tgid=IEICE-ISEC&lang=">ISEC研究会</a> ＠東京（機械振興会館）
-
-5/19-23, <a href="https://eurocrypt.iacr.org/2019/">Eurocrypt 2019</a> @Darmstadt, Germany
-
-5/27-30, <a href="https://www.opt.mist.i.u-tokyo.ac.jp/hj2019/">The 11th Hungarian-Japanese Symposium on Discrete Mathematics and Its Applications</a> @Univ. Tokyo, Japan
-
-7/7-12, <a href="https://asiaccs2019.blogs.auckland.ac.nz/">ACM ASIACCS 2019</a> @Auckland, New Zealand
-
-8/28-30, <a href="http://www.iwsec.org/2019/">IWSEC 2019</a> @Tokyo Institute of Technology, Japan
-
-8/31-9/1, <a href="https://www.imi.kyushu-u.ac.jp/joint_research/detail/20190001">研究集会「代数・論理・幾何と情報科学――理論から実世界への展開」</a> ＠九州大学（？）
-
-9/3-5, <a href="https://annual2019.jsiam.org/">日本応用数理学会2019年度年会</a> ＠東京大学（駒場）
-
-9/3-6, <a href="https://www.sci.shizuoka.ac.jp/~math/yorioka/ss2019/">数学基礎論サマースクール2019</a> ＠静岡大学
-
-9/6, <a href="http://ieice.org/~isec/wcis/wcis2019/">2019年 暗号と情報セキュリティワークショップ（WCIS 2019）</a> ＠機械振興会館、東京
-
-9/25-27, <a href="http://crypto.mist.i.u-tokyo.ac.jp/mqc2019">International Symposium on Mathematics, Quantum Theory, and Cryptography (MQC 2019)</a> @Kyushu University, Fukuoka, Japan
-
-10/21-24, <a href="http://www.iwsec.org/css/2019/">CSS 2019</a> ＠長崎
-
-11/5-7, <a href="https://www.imi.kyushu-u.ac.jp/joint_research/detail/20190004">研究集会「量子計算、ポスト量子暗号、量子符号の融合と深化」</a> ＠九州大学西新プラザ、福岡
-
-11/11-15, <a href="https://www.sigsac.org/ccs/CCS2019/">ACM CCS 2019</a> @London, UK
-
-12/8-12, <a href="https://asiacrypt.iacr.org/2019/">Asiacrypt 2019</a> @Kobe, Japan
-
-12/27, <a href="http://crypto.mist.i.u-tokyo.ac.jp/events/crismath2019.html">暗号及び情報セキュリティと数学の相関ワークショップ（CRISMATH 2019）</a> ＠東京大学本郷キャンパス
+- 1/21, <a href="https://researchmap.jp/sug/SCAIS2019/">SCAIS 2019</a> ＠大津
+- 1/22-25, <a href="http://www.iwsec.org/scis/2019/index.html">SCIS 2019</a> ＠大津
+- 2/4-6, 研究集会「アルゴリズムと計算理論の新潮流」 ＠RIMS
+- 2/20-22, 研究集会「代数系、論理、言語と計算機科学の周辺」 ＠RIMS
+- 3/1, <a href="https://www.cpsec.aist.go.jp/events/ws-cpsec-pkc2019/">第12回公開鍵暗号の安全な構成とその応用ワークショップ</a> ＠産業技術総合研究所（お台場）
+- 3/17-20, <a href="http://mathsoc.jp/meeting/titech19mar/">日本数学会2019年度年会</a> ＠東京工業大学
+- 3/18, <a href="https://researchmap.jp/izu_tetsuya/新しい計算原理に基づく暗号解析の現在/">ワークショップ「新しい計算原理に基づく暗号解析の現在」</a> ＠IIJ（飯田橋）
+- 3/29-30, <a href="https://sites.google.com/view/kantotsudoi/ホーム">第3回関東すうがく徒のつどい</a> ＠東京
+- 5/15, ACM CCS 2019 Submission Deadline (11:59 PM AoE (UTC-12))
+- 5/17, <a href="https://www.ieice.org/ken/program/index.php?tgs_regid=578fae137ffa91e52750480e181b9eee0f477f635bb8da36ea6bec79abd42bb9&tgid=IEICE-ISEC&lang=">ISEC研究会</a> ＠東京（機械振興会館）
+- 5/19-23, <a href="https://eurocrypt.iacr.org/2019/">Eurocrypt 2019</a> @Darmstadt, Germany
+- 5/27-30, <a href="https://www.opt.mist.i.u-tokyo.ac.jp/hj2019/">The 11th Hungarian-Japanese Symposium on Discrete Mathematics and Its Applications</a> @Univ. Tokyo, Japan
+- 7/7-12, <a href="https://asiaccs2019.blogs.auckland.ac.nz/">ACM ASIACCS 2019</a> @Auckland, New Zealand
+- 8/28-30, <a href="http://www.iwsec.org/2019/">IWSEC 2019</a> @Tokyo Institute of Technology, Japan
+- 8/31-9/1, <a href="https://www.imi.kyushu-u.ac.jp/joint_research/detail/20190001">研究集会「代数・論理・幾何と情報科学――理論から実世界への展開」</a> ＠九州大学（？）
+- 9/3-5, <a href="https://annual2019.jsiam.org/">日本応用数理学会2019年度年会</a> ＠東京大学（駒場）
+- 9/3-6, <a href="https://www.sci.shizuoka.ac.jp/~math/yorioka/ss2019/">数学基礎論サマースクール2019</a> ＠静岡大学
+- 9/6, <a href="http://ieice.org/~isec/wcis/wcis2019/">2019年 暗号と情報セキュリティワークショップ（WCIS 2019）</a> ＠機械振興会館、東京
+- 9/25-27, <a href="http://crypto.mist.i.u-tokyo.ac.jp/mqc2019">International Symposium on Mathematics, Quantum Theory, and Cryptography (MQC 2019)</a> @Kyushu University, Fukuoka, Japan
+- 10/21-24, <a href="http://www.iwsec.org/css/2019/">CSS 2019</a> ＠長崎
+- 11/5-7, <a href="https://www.imi.kyushu-u.ac.jp/joint_research/detail/20190004">研究集会「量子計算、ポスト量子暗号、量子符号の融合と深化」</a> ＠九州大学西新プラザ、福岡
+- 11/11-15, <a href="https://www.sigsac.org/ccs/CCS2019/">ACM CCS 2019</a> @London, UK
+- 12/8-12, <a href="https://asiacrypt.iacr.org/2019/">Asiacrypt 2019</a> @Kobe, Japan
+- 12/27, <a href="http://crypto.mist.i.u-tokyo.ac.jp/events/crismath2019.html">暗号及び情報セキュリティと数学の相関ワークショップ（CRISMATH 2019）</a> ＠東京大学本郷キャンパス
 
 <h4>2018年</h4>
 
