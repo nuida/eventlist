@@ -1,9 +1,8 @@
-# eventlist
-## 学会・研究集会などの情報
+# 学会・研究集会などの情報
 
 ＊あくまで個人的なメモなので情報の正確さは保証しません。
 
-### 2023年
+## 2023年
 
 - 1/24-27, <a href="https://www.iwsec.org/scis/2023/index.html" target="_blank"> SCIS 2023</a> ＠小倉
 - 2/15-17, <a href="https://www.kurims.kyoto-u.ac.jp/kyoten/ja/workshop.html" target="_blank">研究集会「群・環・言語と計算機科学の周辺領域」</a> ＠京都大学
@@ -15,7 +14,7 @@
 - 8/20-25, <a href="https://iciam2023.org/" target="_blank">ICIAM 2023</a> @Tokyo, Japan
 - 8/29-31, <a href="https://www.iwsec.org/2023/index.html" target="_blank">IWSEC 2023</a> @IISec, Yokohama, Japan
 
-### 2022年
+## 2022年
 
 - 1/18-21, <a href="https://www.iwsec.org/scis/2022/index.html" target="_blank">SCIS 2022</a> ＠大阪
 - 5/30-6/3, <a href="https://asiaccs2022.conferenceservice.jp/" target="_blank">ACM ASIACCS 2022</a> @Nagasaki, Japan
