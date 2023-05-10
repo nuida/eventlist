@@ -8,6 +8,7 @@
 - 2/15-17, <a href="https://www.kurims.kyoto-u.ac.jp/kyoten/ja/workshop.html" target="_blank">研究集会「群・環・言語と計算機科学の周辺領域」</a> ＠京都大学
 - 4/23-27, <a href="https://eurocrypt.iacr.org/2023/" target="_blank">EUROCRYPT 2023</a> @Lyon, France
 - 5/22-26, <a href="https://www.ieee-security.org/TC/SP2023/index.html" target="_blank">IEEE S&amp;P 2023</a> @San Francisco, USA
+- 5/31, [ワークショップ「産学連携によるカードベース暗号の数理的未解決問題と新課題の整理」](https://joint.imi.kyushu-u.ac.jp/post-9009/) ＠九州大学
 - 6/6-8, <a href="https://itcrypto.github.io/2023/index.html" target="_blank">ITC 2023</a> @Aarhus University, Denmark
 - 6/19-22, <a href="https://sulab-sever.u-aizu.ac.jp/ACNS2023/index.html" target="_blank">ACNS 2023</a> @Kyoto, Japan
 - 8/19-24, <a href="https://crypto.iacr.org/2023/" target="_blank">CRYPTO 2023</a> @Santa Barbara, USA
