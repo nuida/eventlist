@@ -19,6 +19,7 @@
 - 10/30-11/2, [CSS 2023](https://www.iwsec.org/css/2023/) ＠福岡市
 - 11/29-12/2, [TCC 2023](https://tcc.iacr.org/2023/) @Taipei, Taiwan
 - 12/4-12/8, [ASIACRYPT 2023](https://asiacrypt.iacr.org/2023/) @Guangzhou, China
+- 12/26-12/27, [CRISMATH 2023](https://imi.kyushu-u.ac.jp/~lmdac/event/crismath2023.html) ＠九州大学
 
 ## 2022年
 
