@@ -4,6 +4,7 @@
 
 ## 2024年
 - 1/23-26, [SCIS 2024](https://www.iwsec.org/scis/2024/index.html) ＠長崎
+- 3/17-20, [日本数学会年会](https://www.mathsoc.jp/activity/meeting/omu24mar/index.html) ＠大阪公立大学
 - 7/15–19, [ANTS 2024](https://antsmath.org/ANTSXVI/index.html) @MIT, USA
 - 9/17-19（？）, IWSEC 2024 ＠京都（？）
 - 10/22-25（？）, CSS 2024 ＠神戸（？）
