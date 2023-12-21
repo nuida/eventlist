@@ -5,6 +5,7 @@
 ## 2024年
 - 1/22, [SCAIS 2024](https://scais-jp.github.io/2024/) ＠長崎県立大学
 - 1/23-26, [SCIS 2024](https://www.iwsec.org/scis/2024/index.html) ＠長崎
+- 3/5-8, 電子情報通信学会2024年総合大会 ＠広島大学
 - 3/17-20, [日本数学会年会](https://www.mathsoc.jp/activity/meeting/omu24mar/index.html) ＠大阪公立大学
 - 7/15–19, [ANTS 2024](https://antsmath.org/ANTSXVI/index.html) @MIT, USA
 - 9/3-9/6, 日本数学会秋季総合分科会 ＠大阪大学
