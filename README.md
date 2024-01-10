@@ -5,6 +5,7 @@
 ## 2024年
 - 1/22, [SCAIS 2024](https://scais-jp.github.io/2024/) ＠長崎県立大学
 - 1/23-26, [SCIS 2024](https://www.iwsec.org/scis/2024/index.html) ＠長崎
+- 3/4-6, [日本応用数理学会研究部会連合発表会](https://jsiam.org/union2024) ＠長岡技術科学大学
 - 3/4-8, [電子情報通信学会2024年総合大会](https://www.ieice.org/jpn_r/activities/taikai/general/2024/index.html) ＠広島大学
 - 3/11-12, [研究集会「Quantum Foundations 2024」](https://qsys.se.shibaura-it.ac.jp/kimura/QFound/index.html) ＠芝浦工業大学
 - 3/17-20, [日本数学会年会](https://www.mathsoc.jp/activity/meeting/omu24mar/index.html) ＠大阪公立大学
