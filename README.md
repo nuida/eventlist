@@ -2,6 +2,10 @@
 
 ＊あくまで個人的なメモなので情報の正確さは保証しません。
 
+## 2025年
+- 1/27（？）, SCAIS 2025 ＠小倉（？）
+- 1/28-31（？）, SCIS 2025 ＠小倉（？）
+
 ## 2024年
 - 1/22, [SCAIS 2024](https://scais-jp.github.io/2024/) ＠長崎県立大学
 - 1/23-26, [SCIS 2024](https://www.iwsec.org/scis/2024/index.html) ＠長崎
@@ -12,7 +16,7 @@
 - 7/15–19, [ANTS 2024](https://antsmath.org/ANTSXVI/index.html) @MIT, USA
 - 8/14-16, [ITC 2024](https://itcrypto.github.io/2024/index.html) @Stanford University, USA
 - 9/3-9/6, 日本数学会秋季総合分科会 ＠大阪大学
-- 9/17-19（？）, IWSEC 2024 ＠京都（？）
+- 9/17-19, [IWSEC 2024](https://www.iwsec.org/2024/index.html) ＠京都
 - 10/22-25（？）, CSS 2024 ＠神戸（？）
 
 ## 2023年
