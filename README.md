@@ -13,6 +13,7 @@
 - 3/4-8, [電子情報通信学会2024年総合大会](https://www.ieice.org/jpn_r/activities/taikai/general/2024/index.html) ＠広島大学
 - 3/11-12, [研究集会「Quantum Foundations 2024」](https://qsys.se.shibaura-it.ac.jp/kimura/QFound/index.html) ＠芝浦工業大学
 - 3/17-20, [日本数学会年会](https://www.mathsoc.jp/activity/meeting/omu24mar/index.html) ＠大阪公立大学
+- 5/26-30, [EUROCRYPT 2024](https://eurocrypt.iacr.org/2024/) @Zurich, Switzerland
 - 7/15–19, [ANTS 2024](https://antsmath.org/ANTSXVI/index.html) @MIT, USA
 - 8/14-16, [ITC 2024](https://itcrypto.github.io/2024/index.html) @Stanford University, USA
 - 9/3-9/6, 日本数学会秋季総合分科会 ＠大阪大学
