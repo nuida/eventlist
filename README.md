@@ -2,6 +2,8 @@
 
 ＊あくまで個人的なメモなので情報の正確さは保証しません。
 
+＊[Security and Privacy Conference Deadlines](https://sec-deadlines.github.io/)
+
 ## 2025年
 - 1/27（？）, SCAIS 2025 ＠小倉（？）
 - 1/28-31（？）, SCIS 2025 ＠小倉（？）
