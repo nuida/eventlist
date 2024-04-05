@@ -16,6 +16,7 @@
 - 3/11-12, [研究集会「Quantum Foundations 2024」](https://qsys.se.shibaura-it.ac.jp/kimura/QFound/index.html) ＠芝浦工業大学
 - 3/17-20, [日本数学会年会](https://www.mathsoc.jp/activity/meeting/omu24mar/index.html) ＠大阪公立大学
 - 5/26-30, [EUROCRYPT 2024](https://eurocrypt.iacr.org/2024/) @Zurich, Switzerland
+- 6/4-8, [FUN 2024](https://sites.google.com/unipi.it/fun2024/home) @Sardinia, Italy
 - 7/15–19, [ANTS 2024](https://antsmath.org/ANTSXVI/index.html) @MIT, USA
 - 8/14-16, [ITC 2024](https://itcrypto.github.io/2024/index.html) @Stanford University, USA
 - 8/26-30, [SAC 2024](https://sacworkshop.org/SAC24/index.html) @Université de Québec à Montréal, Canada
