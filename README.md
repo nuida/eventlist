@@ -15,6 +15,7 @@
 - 3/4-8, [電子情報通信学会2024年総合大会](https://www.ieice.org/jpn_r/activities/taikai/general/2024/index.html) ＠広島大学
 - 3/11-12, [研究集会「Quantum Foundations 2024」](https://qsys.se.shibaura-it.ac.jp/kimura/QFound/index.html) ＠芝浦工業大学
 - 3/17-20, [日本数学会年会](https://www.mathsoc.jp/activity/meeting/omu24mar/index.html) ＠大阪公立大学
+- 5/22, [IMI共同利用「産学連携と数理・暗号分野連携によるカードベース暗号の深化と新境地」](https://joint.imi.kyushu-u.ac.jp/post-15010/) ＠九州大学
 - 5/26-30, [EUROCRYPT 2024](https://eurocrypt.iacr.org/2024/) @Zurich, Switzerland
 - 6/4-8, [FUN 2024](https://sites.google.com/unipi.it/fun2024/home) @Sardinia, Italy
 - 6/14, [S&amp;P 2024の全論文261本を2時間で紹介する会](https://byerlis.jp/seminar/bss04/) ＠池袋
