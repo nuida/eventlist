@@ -3,6 +3,7 @@
 ＊あくまで個人的なメモなので情報の正確さは保証しません。
 
 ＊[IACR Calendar of Events (By Submission Deadline)](https://www.iacr.org/events/?order=submission)
+
 ＊[Security and Privacy Conference Deadlines](https://sec-deadlines.github.io/)
 
 ## 2025年
