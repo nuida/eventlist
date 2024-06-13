@@ -23,6 +23,7 @@
 - 6/14, [S&amp;P 2024の全論文261本を2時間で紹介する会](https://byerlis.jp/seminar/bss04/) ＠池袋
 - 6/22, [可換代数と組合せ論セミナー](https://www.lab2.toho-u.ac.jp/sci/is/tsuchiya/CACoSeminar_home.html) ＠東邦大学
 - 7/15–19, [ANTS 2024](https://antsmath.org/ANTSXVI/index.html) @MIT, USA
+- 7/16-17, [IMI共同利用「耐量子署名方式の設計と安全性の数理」](https://joint.imi.kyushu-u.ac.jp/post-14955/) ＠九州大学
 - 8/14-16, [ITC 2024](https://itcrypto.github.io/2024/index.html) @Stanford University, USA
 - 8/26-30, [SAC 2024](https://sacworkshop.org/SAC24/index.html) @Université de Québec à Montréal, Canada
 - 9/3-9/6, [日本数学会秋季総合分科会](https://www.mathsoc.jp/activity/meeting/osaka24sept/index.html) ＠大阪大学
