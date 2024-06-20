@@ -29,7 +29,7 @@
 - 8/26-30, [SAC 2024](https://sacworkshop.org/SAC24/index.html) @Université de Québec à Montréal, Canada
 - 9/3-9/6, [日本数学会秋季総合分科会](https://www.mathsoc.jp/activity/meeting/osaka24sept/index.html) ＠大阪大学
 - 9/17-19, [IWSEC 2024](https://www.iwsec.org/2024/index.html) ＠京都
-- 10/22-25（？）, CSS 2024 ＠神戸（？）
+- 10/22-25, [CSS 2024](https://www.iwsec.org/css/2024/index.html) ＠神戸
 
 ## 2023年
 
