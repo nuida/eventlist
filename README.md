@@ -30,6 +30,7 @@
 - 9/2, [WCIS 2024](https://www.ieice.org/~isec/wcis/wcis2024/) ＠オンライン
 - 9/3-9/6, [日本数学会秋季総合分科会](https://www.mathsoc.jp/activity/meeting/osaka24sept/index.html) ＠大阪大学
 - 9/17-19, [IWSEC 2024](https://www.iwsec.org/2024/index.html) ＠京都
+- 10/19, [数学・数理科学専攻若手研究者のための異分野異業種研究交流会](https://jsiam.org/jsiam_archive/kr/career2024/) ＠東京工業大学（新　東京科学大学）
 - 10/22-25, [CSS 2024](https://www.iwsec.org/css/2024/index.html) ＠神戸
 - 12/10-13, [SITA 2024](https://www.ieice.org/ess/sita/SITA2024/index.html) ＠福井
 
