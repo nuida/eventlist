@@ -11,6 +11,7 @@
 - 1/28-31（？）, SCIS 2025 ＠小倉（？）
 - 3/4-7, [STACS 2025](https://stacs2025.de/) @Jena, Germany
 - 3/18-21（？）, 日本数学会年会 ＠早稲田大学
+- 4/8-10, [PQCrypto 2025](https://pqcrypto2025.iis.sinica.edu.tw/) @Taipei, Taiwan
 - 7/14-16, [ACISP 2025](https://uow-ic2.github.io/acisp2025/index.html) @Wollongong, Australia
 
 ## 2024年
