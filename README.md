@@ -13,6 +13,7 @@
 - 3/18-21（？）, 日本数学会年会 ＠早稲田大学
 - 4/8-10, [PQCrypto 2025](https://pqcrypto2025.iis.sinica.edu.tw/) @Taipei, Taiwan
 - 7/14-16, [ACISP 2025](https://uow-ic2.github.io/acisp2025/index.html) @Wollongong, Australia
+- 9/16-19（？）, 日本数学会秋季総合分科会 ＠名古屋大学（？）
 
 ## 2024年
 - 1/22, [SCAIS 2024](https://scais-jp.github.io/2024/) ＠長崎県立大学
