@@ -36,6 +36,7 @@
 - 9/17-19, [IWSEC 2024](https://www.iwsec.org/2024/index.html) ＠京都
 - 10/19, [数学・数理科学専攻若手研究者のための異分野異業種研究交流会](https://jsiam.org/jsiam_archive/kr/career2024/) ＠東京工業大学（新　東京科学大学）
 - 10/22-25, [CSS 2024](https://www.iwsec.org/css/2024/index.html) ＠神戸
+- 11/29, [CCS 2024の全論文328本を2時間で紹介する会](https://byerlis.jp/seminar/bss06/) ＠池袋
 - 12/10-13, [SITA 2024](https://www.ieice.org/ess/sita/SITA2024/index.html) ＠福井
 
 ## 2023年
