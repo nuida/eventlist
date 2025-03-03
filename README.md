@@ -7,14 +7,15 @@
 ＊[Security and Privacy Conference Deadlines](https://sec-deadlines.github.io/)
 
 ## 2025年
-- 1/27（？）, SCAIS 2025 ＠小倉（？）
+- 1/27, SCAIS 2025 ＠小倉
 - 1/28-31, [SCIS 2025](https://www.iwsec.org/scis/2025/) ＠小倉
 - 3/4-7, [STACS 2025](https://stacs2025.de/) @Jena, Germany
-- 3/18-21（？）, 日本数学会年会 ＠早稲田大学
+- 3/18-21, 日本数学会年会 ＠早稲田大学
 - 4/8-10, [PQCrypto 2025](https://pqcrypto2025.iis.sinica.edu.tw/) @Taipei, Taiwan
 - 7/14-16, [ACISP 2025](https://uow-ic2.github.io/acisp2025/index.html) @Wollongong, Australia
 - 7/21-25, [FPSAC 2025](https://www.math.sci.hokudai.ac.jp/sympo/fpsac2025/) ＠北海道大学
 - 9/16-19（？）, 日本数学会秋季総合分科会 ＠名古屋大学（？）
+- 11/25-27, [IWSEC 2025](https://www.iwsec.org/2025/) ＠福岡
 
 ## 2024年
 - 1/22, [SCAIS 2024](https://scais-jp.github.io/2024/) ＠長崎県立大学
