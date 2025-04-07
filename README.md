@@ -15,6 +15,7 @@
 - 7/14-16, [ACISP 2025](https://uow-ic2.github.io/acisp2025/index.html) @Wollongong, Australia
 - 7/21-25, [FPSAC 2025](https://www.math.sci.hokudai.ac.jp/sympo/fpsac2025/) ＠北海道大学
 - 9/16-19（？）, 日本数学会秋季総合分科会 ＠名古屋大学（？）
+- 11/17-20, [CANS 2025](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/index.html) ＠大阪
 - 11/25-27, [IWSEC 2025](https://www.iwsec.org/2025/) ＠福岡
 
 ## 2024年
