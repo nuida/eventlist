@@ -19,6 +19,7 @@
 - 7/21-25, [FPSAC 2025](https://www.math.sci.hokudai.ac.jp/sympo/fpsac2025/) ＠北海道大学
 - 9/2, [WCIS 2025](https://www.ieice.org/~isec/wcis/wcis2025/) ＠オンライン
 - 9/16-19（？）, 日本数学会秋季総合分科会 ＠名古屋大学（？）
+- 10/27-31, [CSS 2025](https://www.iwsec.org/css/2025/index.html) ＠岡山／オンライン
 - 11/17-20, [CANS 2025](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/index.html) ＠大阪
 - 11/25-27, [IWSEC 2025](https://www.iwsec.org/2025/) ＠福岡
 
